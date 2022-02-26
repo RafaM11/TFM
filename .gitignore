@@ -1,0 +1,5 @@
+# ignore private/secret files
+*.ini
+
+# ignore CSV files
+*.csv
